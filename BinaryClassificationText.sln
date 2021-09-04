@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30804.86
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "BinaryClassificationText", "BinaryClassificationText\BinaryClassificationText.csproj", "{9D179503-C8FD-440D-A6C3-4A145F744753}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9D179503-C8FD-440D-A6C3-4A145F744753}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9D179503-C8FD-440D-A6C3-4A145F744753}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9D179503-C8FD-440D-A6C3-4A145F744753}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9D179503-C8FD-440D-A6C3-4A145F744753}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2D75E517-17E6-41E9-B655-0320D20E0CC6}
+	EndGlobalSection
+EndGlobal
